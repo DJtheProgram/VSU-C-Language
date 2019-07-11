@@ -5,7 +5,7 @@ int main(void){
 	char alpha[4];
    printf("Type 4 alphabet: \n");
    scahf("%s", alpha);
-   RotateFourChars(&alpha);
+   RotateFourChars(alpha);
    return 0;
 }
 
